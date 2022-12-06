@@ -19,3 +19,5 @@ Gather resources, build structures, and progress your technology by researching 
 
 Game Snapshots as of Alpha 0.1.1 (Early Development Phase)
 https://imgur.com/a/sdGT7Me
+
+Video Demonstration https://youtu.be/cpdywHf3QTE
